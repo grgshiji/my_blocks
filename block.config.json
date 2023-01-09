@@ -1,0 +1,8 @@
+{
+  "name": "my_blocks",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/grgshiji/my_blocks",
+    "ssh": "git@github.com:grgshiji/my_blocks.git"
+  }
+}
